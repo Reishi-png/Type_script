@@ -2,7 +2,7 @@
 class Book {
     constructor() {}
 
-    private status: string
+    private status: string = ''
 
     
     public order() {
